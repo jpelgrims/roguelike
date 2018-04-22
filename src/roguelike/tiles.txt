@@ -1,0 +1,1 @@
+id, name, glyph, glyphColor, backgroundColor, blocked0, ground, ., white, black, false1, wall, #, white, black, true
